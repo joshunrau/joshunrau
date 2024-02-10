@@ -12,13 +12,13 @@ Post-graduation, I ventured into web development during a short summer job. This
 
 In my current position, I handle everything from frontend to backend development, database management, deployment using Docker, and continuous integration. I am deeply passionate about open-source technology, but I believe its success depends on more than just appealing to developers. For open-source to truly thrive, it needs to be user-friendly and enjoyable. My approach to development is deeply rooted in the philosophy of making technology intuitive and accessible for everyone.
 
-### My Tech Stack
+## My Tech Stack
 
 - **Primary Language**: TypeScript
 - **Frontend**: React, TailwindCSS, Astro
 - **Backend**: NestJS, Express, Prisma, MongoDB
 - **Other**: Docker, Linux, Python
 
-### Personal Projects
+## Personal Projects
 
 I have a variety of small packages to solve various problems I have encountered over the years. I also run a server hosting my personal website and various open-source services. 

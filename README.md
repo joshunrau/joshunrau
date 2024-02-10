@@ -17,7 +17,7 @@ In my current position, I handle everything from frontend to backend development
 - **Primary Language**: TypeScript
 - **Frontend**: React, TailwindCSS, Astro
 - **Backend**: NestJS, Express, Prisma, MongoDB
-- **Other**: Docker, Linux, Python
+- **Other**: Docker, Linux, Python, Rust (Beginner)
 
 ## Personal Projects
 

@@ -15,7 +15,7 @@ In my current role, I'm involved in everything from frontend and backend develop
 - **Languages**: TypeScript, JavaScript, HTML, CSS, Python, Rust (Beginner)
 - **Frontend**: React, TailwindCSS, Astro, Next.js, Bootstrap
 - **Backend**: NestJS, Express, Prisma, MongoDB
-- **Other Tools and Technologies**: Linux, Docker, Git, GitHub Actions, Vite, ESBuild, Rollup, SWC, Storybook
+- **Tools and Platforms**: Linux, Docker, Git, GitHub Actions, Vite, ESBuild, Rollup, SWC, Storybook
 
 ## Personal Projects
 

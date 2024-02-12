@@ -12,10 +12,10 @@ In my current role, I'm involved in everything from frontend and backend develop
 
 ## My Tech Stack
 
-- **Primary Language**: TypeScript
-- **Frontend**: React, TailwindCSS, Astro
+- **Languages**: TypeScript, JavaScript, HTML, CSS, Python, Rust (Beginner)
+- **Frontend**: React, TailwindCSS, Astro, Next.js, Bootstrap
 - **Backend**: NestJS, Express, Prisma, MongoDB
-- **Other**: Docker, Linux, Python, Rust (Beginner)
+- **Other Tools and Technologies**: Linux, Docker, Git, GitHub Actions, Vite, ESBuild, Rollup, SWC, Storybook
 
 ## Personal Projects
 
